@@ -1,4 +1,4 @@
-<apex:page doctype=html-5.0 standardstylesheets=false showheader=false sidebar=false applybodytag=false showchat=false showquickactionvfheader=false applyhtmltag=false cache=true><html><head><meta charset=UTF-8><title>Salesforce Metadata Deployment</title><script>
+<apex:page standardstylesheets=false showheader=false sidebar=false applybodytag=false showchat=false showquickactionvfheader=false applyhtmltag=false cache=true><html><head><meta charset=UTF-8><title>Salesforce Metadata Deployment</title><script>
     var ConnectedAppConfig = {
       clientId : '<clientId>',
       redirectUri : '<callbackUrl>'
